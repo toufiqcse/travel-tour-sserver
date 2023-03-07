@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "Forest",
+        "description": "Far for away , behind the word mountains, far fom the countries Bangladesh",
+        "btn": "view all tours",
+        "image": "https://wallpapercave.com/wp/wp2519762.jpg",
+        "toursQuantity": "4 tours"
+    },
+    {
+        "id": "2",
+        "title": "Best Sea Beach",
+        "description": "Far for away , behind the word mountains, far fom the countries Bangladesh",
+        "btn": "view all tours",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y294JTIwYmF6YXIlMjBzZWElMjBiZWFjaHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "toursQuantity": "6 tours"
+    },
+    {
+        "id": "3",
+        "title": "Natural Beauty Of Bangladesh",
+        "description": "Far for away , behind the word mountains, far fom the countries Bangladesh",
+        "btn": "view all tours",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sajek_Valley_Rangamati_3.jpg/1200px-Sajek_Valley_Rangamati_3.jpg",
+        "toursQuantity": "8 tours"
+    },
+    {
+        "id": "4",
+        "title": "Park",
+        "description": "Far for away , behind the word mountains, far fom the countries Bangladesh",
+        "btn": "view all tours",
+        "image": "https://thumbs.dreamstime.com/b/children-playground-2870792.jpg",
+        "toursQuantity": "3 tours"
+    },
+    {
+        "id": "5",
+        "title": "Religious",
+        "description": "Far for away , behind the word mountains, far fom the countries Bangladesh",
+        "btn": "view all tours",
+        "image": "https://nijhoom.com/wp-content/uploads/2021/04/gaur-gauda-sona-mosque-768-o.jpg",
+        "toursQuantity": "3 tours"
+    },
+    {
+        "id": "6",
+        "title": "Historical Place",
+        "description": "Far for away , behind the word mountains, far fom the countries Bangladesh",
+        "btn": "view all tours",
+        "image": "https://media.istockphoto.com/id/503711230/photo/the-parliament.jpg?s=612x612&w=0&k=20&c=75jDewKKnCTZjIqkdORmrDRdPW5W9Kr7oFNj1yj6_Qk=",
+        "toursQuantity": "6 tours"
+    }
+]
